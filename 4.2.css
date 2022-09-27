@@ -1,0 +1,26 @@
+#outer
+{
+height:80px;
+width:880px;
+box-shadow:1px 1px 20px green inset;
+background-color:lightgrey;
+margin:50px auto;
+border-radius:20px 0px 20px 0px;
+}
+#outer ul
+{
+list-style-type:none;
+}
+#outer ul li
+{
+width:120px;
+border:5px solid green;
+border-radius:20px 0px 20px 0px;
+box-shadow:1px 1px 20px black inset;
+height:32px;
+color:black;
+padding-top:15px;
+margin-top:10px;
+text-align:center;
+display:inline-block;
+}
