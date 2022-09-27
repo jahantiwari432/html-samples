@@ -34,3 +34,15 @@ HTML TASK-4
 4.2 Create menu for navigation in a college website by using HTML and CSS.
 
 4.3 Design a complete website.
+
+HTML TASK-5
+
+1. Various demo presenting various menu style using html code. file named menu.htm
+
+2. Make a page using div tag. file named firstpage.html
+
+3. Design a professional page using html. file named page.html
+
+4. Design a photofolio page using html. file named photofolio.html
+
+5. Design a travel page sample using html. file named travel.html
