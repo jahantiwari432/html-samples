@@ -46,3 +46,5 @@ HTML TASK-5
 4. Design a photofolio page using html. file named photofolio.html
 
 5. Design a travel page sample using html. file named travel.html
+
+6. Design a google page sample using html. file named google.html
